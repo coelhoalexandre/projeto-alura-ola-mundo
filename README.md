@@ -13,10 +13,6 @@
 - [Funcionalidades do Projeto](#funcionalidades-do-projeto)
 - [Tecnologias Utilizadas](#tecnolgias-utilizadas)
 - [Layouts](#layouts)
-  - [Desktop Layout](#desktop-layout)
-  - [Tablet Layout](#tablet-layout)
-  - [Mobile Layout](#mobile-layout)
-- [Adaptações](#adaptações)
 - [Autor](#autor)
 
 ## Sobre o Projeto
@@ -25,11 +21,17 @@ O projeto foi construido com React por meio das instruções de [**Antônio Eval
 
 ## Objetivos do Projeto
 
-- Conhecer e usar os principais recursos da biblioteca react-router-dom
+- Conhecer e usar os principais recursos da biblioteca react-router-dom;
+- Aprender o que é e porque utilizar uma SPA;
+- Resolucionar problemas com rotas aninhadas e dinamicas;
+- Implementar desafios práticos. 
 
 ## Funcionalidades do Projeto
 
-
+- **Links Inicio/Sobre Mim:** Redireciona para as respectivas páginas, onde haverá uma alteração do seu conteúdo principal.
+- **Cards:** OS 8 cards da página inicial redirecionam, cada um, para seu respectivo post quando clicados neles.
+- **Posts:** As funcionalidades dos posts se resumem a da página inicial. Entretanto só há 4 cards e nunca aparecerá o card do post atual.
+- **Página não encontrada:** Caso coloque uma url que não redirecionam a nenhuma página existente, será mandado para a página não encontrada. 
 
 ## Tecnolgias Utilizadas
 
@@ -40,17 +42,15 @@ O projeto foi construido com React por meio das instruções de [**Antônio Eval
 
 ## Layouts
 
-### Desktop Layout
+**Width 1280px:**
 
-### Tablet Layout
+**Página Inicial:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/ola-mundo-inicio-1280px.jpg
 
-### Mobile Layout
-
-## Adaptações
+**Página Não Encontrada:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/ola-mundo-nao-encontrada-1280px.jpg
 
 ## Autor
 
-Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. 
+Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. Instruido por [**Antônio Evaldo**](https://github.com/antonio-evaldo), esse projeto já tinha seu conteúdo e css predefinido, somente sendo adicionado ao longo do projeto. Assim, esse projeto foca-se somente na lógica do React e a construção de rotas.
 
 Logo abaixo estão os meus principais links, fique a vontade de acessar o que mais lhe interessar:
 
