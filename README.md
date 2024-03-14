@@ -21,11 +21,11 @@
 
 ## Sobre o Projeto
 
-
+O projeto foi construido com React por meio das instruções de [**Antônio Evaldo**](https://github.com/antonio-evaldo) no curso [React: desenvolvendo em React Router com JavaScript](https://cursos.alura.com.br/course/React-desenvolvendo-react-router-javaScript). Como observado no nome do curso, o objetivo principal do projeto é desenvolvimento de um site com o poder do React Router.
 
 ## Objetivos do Projeto
 
-
+- Conhecer e usar os principais recursos da biblioteca react-router-dom
 
 ## Funcionalidades do Projeto
 
